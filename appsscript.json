@@ -1,0 +1,14 @@
+{
+  "timeZone": "America/Fortaleza",
+  "dependencies": {
+    "enabledAdvancedServices": [
+      {
+        "userSymbol": "AdSense",
+        "version": "v2",
+        "serviceId": "adsense"
+      }
+    ]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
